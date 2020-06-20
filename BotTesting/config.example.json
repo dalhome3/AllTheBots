@@ -1,8 +1,0 @@
-{
-  "Token": "INSERTDISCORDTOKEN",
-  "Prefix": "s!",
-  "MentionBot": true,
-  "Twitch_ClientID": "Twitch_ClientID",
-  "Twitch_ClientSecret": "Twitch_ClientSecret",
-  "Twitch_AutoModBroadcaster": "dalvsgaming"
-}
